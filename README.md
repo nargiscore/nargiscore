@@ -12,9 +12,16 @@
 🧠 Curious about Brain-Computer Interfaces (BCI).<br>
 🚀 My goal is to become a skilled Full-Stack Developer.
 
+
+
 ## 🚀 **Current Activities**
 
 - 🔭 Exploring **React && Next.js**
+- ⚛️ Learning React.js and modern React concepts
+-📘 Improving my TypeScript skills
+-🔧 Exploring Backend Development
+-☁️ Learning about Cloud & AWS
+-💻 Building projects to strengthen my development skills
 
 
 ## 🛠️ Tech Stack  
