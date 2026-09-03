@@ -1,11 +1,16 @@
 # Hi 👋, I'm Nargis Sultana 
-### 🔭 I build things with JavaScript, React, and Node.js
+💻 Frontend Developer | Learning React & Next.js | Full-Stack Development Enthusiast
 
 ---
-
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+👨‍💻 About Me 
+👩‍💻 Hi, I'm @nargiscore
+⚛️ I'm currently learning and working with React.js, Next.js, JavaScript, and TypeScript.
+🌐 Experienced with WordPress, PHP, MySQL, HTML, CSS, and JavaScript.
+🔧 Exploring Full-Stack Development and backend technologies.
+📚 Continuously learning new technologies and improving my development skills.
+☁️ Interested in Cloud, AWS, and modern development tools.
+🧠 Curious about Brain-Computer Interfaces (BCI) and emerging technologies.
+🚀 My goal is to become a skilled Full-Stack Developer and build meaningful, scalable applications.
 
 ---
 
