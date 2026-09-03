@@ -17,11 +17,11 @@
 ## 🚀 **Current Activities**
 
 - 🔭 Exploring **React && Next.js**
-- ⚛️ Learning React.js and modern React concepts<br>
--📘 Improving my TypeScript skills<br>
--🔧 Exploring Backend Development<br>
--☁️ Learning about Cloud & AWS<br>
--💻 Building projects to strengthen my development skills
+- ⚛️ Learning **React.js** and modern React concepts<br>
+- 📘 Improving my **TypeScript** skills<br>
+- 🔧 Exploring **Backend Development**<br>
+- ☁️ Learning about **Cloud & AWS**<br>
+- 💻 Building projects to strengthen my development skills
 
 
 ## 🛠️ Tech Stack  
