@@ -12,6 +12,11 @@
 🧠 Curious about Brain-Computer Interfaces (BCI).<br>
 🚀 My goal is to become a skilled Full-Stack Developer.
 
+## 🚀 **Current Activities**
+
+- 🔭 Exploring **React && Next.js**
+
+
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
