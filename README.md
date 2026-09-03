@@ -1,9 +1,9 @@
 # Hi 👋, I'm Nargis Sultana 
 💻 Frontend Developer | Learning React & Next.js | Full-Stack Development Enthusiast
 
----
 ## 👨‍💻 **About Me**
-👩‍💻 Hi, I'm @NargisCore<br>
+
+👩‍💻 Hi, I'm **@NargisCore**<br>
 ⚛️ I'm currently learning React.js, Next.js, JavaScript, and TypeScript.<br>
 🌐 Experienced with WordPress, PHP, MySQL, HTML, CSS, and JavaScript.<br>
 🔧 Exploring Full-Stack Development and backend technologies.<br>
@@ -11,7 +11,6 @@
 ☁️ Interested in Cloud, AWS, and modern development tools.<br>
 🧠 Curious about Brain-Computer Interfaces (BCI).<br>
 🚀 My goal is to become a skilled Full-Stack Developer.
----
 
 ## 🛠️ Tech Stack  
 
