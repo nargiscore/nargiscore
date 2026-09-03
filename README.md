@@ -2,7 +2,7 @@
 💻 Frontend Developer | Learning React & Next.js | Full-Stack Development Enthusiast
 
 ---
-👨‍💻 About Me 
+👨‍💻 About Me <br>
 👩‍💻 Hi, I'm @nargiscore
 ⚛️ I'm currently learning and working with React.js, Next.js, JavaScript, and TypeScript.
 🌐 Experienced with WordPress, PHP, MySQL, HTML, CSS, and JavaScript.
