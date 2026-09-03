@@ -1,14 +1,4 @@
-👋 Hi, I'm Nargis Sultana
 
-
-
-👩‍💻 Hi, I'm @nargiscore
-⚛️ I'm currently learning and working with React.js, Next.js, JavaScript, and TypeScript.
-🌐 Experienced with WordPress, PHP, MySQL, HTML, CSS, JavaScript, and modern web technologies.
-🔧 Exploring Full-Stack Development and backend technologies.
-📚 Continuously learning new technologies and improving my development skills.
-☁️ Interested in exploring Cloud, AWS, and modern development tools.
-🚀 My goal is to become a skilled Full-Stack Developer and build meaningful, scalable applications.
 
 
 <h3 align="center">💻</h3>
