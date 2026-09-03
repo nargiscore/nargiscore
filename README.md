@@ -68,12 +68,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NargisCore&show_icons=true&theme=transparent" alt="NargisCore GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NargisCore&layout=compact&theme=transparent" alt="NargisCore Top Languages" />
+  <a href="https://github.com/nargiscore">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nargiscore&show_icons=true&theme=dark&count_private=true" />
+  </a>
+  <a href="https://github.com/nargiscore">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargiscore&layout=compact&theme=dark" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NargisCore&theme=transparent" alt="NargisCore GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nargiscore&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
