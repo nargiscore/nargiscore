@@ -2,16 +2,15 @@
 💻 Frontend Developer | Learning React & Next.js | Full-Stack Development Enthusiast
 
 ---
-👨‍💻 About Me <br>
-👩‍💻 Hi, I'm @nargiscore
-⚛️ I'm currently learning and working with React.js, Next.js, JavaScript, and TypeScript.
-🌐 Experienced with WordPress, PHP, MySQL, HTML, CSS, and JavaScript.
-🔧 Exploring Full-Stack Development and backend technologies.
-📚 Continuously learning new technologies and improving my development skills.
-☁️ Interested in Cloud, AWS, and modern development tools.
-🧠 Curious about Brain-Computer Interfaces (BCI) and emerging technologies.
-🚀 My goal is to become a skilled Full-Stack Developer and build meaningful, scalable applications.
-
+## 👨‍💻 **About Me**
+👩‍💻 Hi, I'm @NargisCore<br>
+⚛️ I'm currently learning React.js, Next.js, JavaScript, and TypeScript.<br>
+🌐 Experienced with WordPress, PHP, MySQL, HTML, CSS, and JavaScript.<br>
+🔧 Exploring Full-Stack Development and backend technologies.<br>
+📚 Continuously learning and improving my development skills.<br>
+☁️ Interested in Cloud, AWS, and modern development tools.<br>
+🧠 Curious about Brain-Computer Interfaces (BCI).<br>
+🚀 My goal is to become a skilled Full-Stack Developer.
 ---
 
 ## 🛠️ Tech Stack  
