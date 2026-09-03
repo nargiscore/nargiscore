@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Nargis Sultana GitHub Banner">
+</p>
+
+
 # Hi 👋, I'm Nargis Sultana 
 💻 Frontend Developer | Learning React & Next.js | Full-Stack Development Enthusiast
 
