@@ -63,11 +63,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nargis_diya/?hl=en)
 ---
 
-## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NargisCore&show_icons=true&theme=transparent" alt="NargisCore GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NargisCore&layout=compact&theme=transparent" alt="NargisCore Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NargisCore&theme=transparent" alt="NargisCore GitHub Streak" />
+</p>
 
 ---
 
